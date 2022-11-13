@@ -1,2 +1,2 @@
-# html-parser
-basic html parser written in Rust
+# parsers
+basic parsers toys written in rust
